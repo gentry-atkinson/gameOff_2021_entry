@@ -1,0 +1,30 @@
+# Nov 1 #
+I have just read the theme for the jam, which is Bug! I feel like I have seen a
+lot of "Intentional glitch" themed games recently, so I want to avoid that. I'm
+also new to this and too worried about unintentional glitches to confidently
+use that theme.
+
+But they have also invited people to interpret Bug! in whatever way works best,
+to include inventing an acronym. So here's some thoughts:
+
+-Lead a colony of bugs to food with pheromone trails.
+-Give players bad solutions to puzzles to debug.
+-Agitate a character until they fail a task.
+-An idle mosquito slapper?
+-Back Up Generator. Repair the generator before you freeze.
+-Beyond Unknown Galaxies. Space exploration?
+-Beetle-drawn chariot racing game with fun, slide-y physics.
+
+My initial thoughts are that I loved Sim Ant as a kid so the insect ideas are
+attractive to me. Another consideration is that the assets need to be public, or
+made by me. An insect theme could use a bunch of each to draw sprites, so that's
+another mark in favor of that approach. Maybe I can combine a few?
+
+I'm also thinking about my development environment now. I joined this to learn
+Godot and with a whole month I should be able too. But I'm also getting a little
+case of cold feet. I'm pretty familiar with Python, and if I stay with Pygame
+I'm confident that I could add some pretty cool AI to my bugs. I don't know if
+I'm going to be able to do that in Godot. Probably yes...
+
+With 30 days to work, I think the best idea is to sleep of the theme for
+tonight.
