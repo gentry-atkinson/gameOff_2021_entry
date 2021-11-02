@@ -32,3 +32,35 @@ tonight.
 
 # Nov 1 p.s. #
 Bug out!
+
+# Nov 2 #
+I remembered the phrase "bug out" yesterday evening and really like it as a
+setup for a game. The user will have some limited time period to collect as
+many useful items as possible in a short time limit. Their score is the sum of
+the items that they collect in the time period if they reach their bunker, or
+zero if they explode.
+
+I really like the idea of running with "Bug Out", but I'll have to thematically
+distinguish this game from several other "collect stuff and go to bunker" games
+that have been popular over the last couple of years. "Bug out" is usually used
+to mean leaving an area, so maybe this is a "grab stuff and flee" game rather
+than a "grab stuff and shelter" game. I can also drag in one or two of the other
+theme concepts. Maybe a bug is fleeing an exterminator or a player has five
+minutes to collect tool, and then has to fix a generator with whatever they
+grabbed.
+
+So, concept is moving in the right direction. I also had an idea for the
+gameplay and I don't know yet if it's a terrible idea or not. I'm thinking about
+making a text-based game. Maybe a few graphics, but almost entirely text.
+Writing a text parser can be a bunch of work but I'm pretty confident with this
+class of problem I think I can steal some old code from a compilers class. Plus,
+it always good to brush up on regex a little. So here's the arguments in favor
+or a text game:
+  -I think the game will stand out from the other 6000 entries in the Game Off.
+   Maybe not in a good way, but we should be one of very few text entries.
+  -Since I can't use paid assets, I'm expecting to have to draw a lot of the
+   artwork myself (or find public assets). I have very little confidence in my
+   ability to draw, but a lot of confidence in my ability to write and code. A
+   text based game actually seems like a good way to play to my strengths.
+
+T
