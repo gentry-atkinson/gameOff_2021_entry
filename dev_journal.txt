@@ -14,6 +14,7 @@ to include inventing an acronym. So here's some thoughts:
 -Back Up Generator. Repair the generator before you freeze.
 -Beyond Unknown Galaxies. Space exploration?
 -Beetle-drawn chariot racing game with fun, slide-y physics.
+-A disease spreading? Maybe too on the nose.
 
 My initial thoughts are that I loved Sim Ant as a kid so the insect ideas are
 attractive to me. Another consideration is that the assets need to be public, or
@@ -28,3 +29,6 @@ I'm going to be able to do that in Godot. Probably yes...
 
 With 30 days to work, I think the best idea is to sleep of the theme for
 tonight.
+
+# Nov 1 p.s. #
+Bug out!
