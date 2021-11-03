@@ -63,4 +63,8 @@ or a text game:
    ability to draw, but a lot of confidence in my ability to write and code. A
    text based game actually seems like a good way to play to my strengths.
 
-T
+The best argument against making a text based game is that I signed up for this
+jam to learn Godot. I've checked and Godot does support text IO, but this
+probably isn't the best introduction to a platform that's made for, like
+animated sprites and things like that. Then again, this might be a good way to
+learn Godot slowly without getting lost in the weeds of physics and animation.
