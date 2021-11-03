@@ -6,5 +6,5 @@ func _ready() -> void:
 
 
 
-func _on_Input_text_entered(new_text: String) -> void:
+func _on_Input_text_entered(_new_text: String) -> void:
 	clear()
