@@ -68,3 +68,37 @@ jam to learn Godot. I've checked and Godot does support text IO, but this
 probably isn't the best introduction to a platform that's made for, like
 animated sprites and things like that. Then again, this might be a good way to
 learn Godot slowly without getting lost in the weeds of physics and animation.
+
+# Nov 3 #
+I've gone all in on the text based game. Luckily I have found a good youtube
+tutorial series here: https://youtu.be/wCI650TDhHA. It turns out text processing
+is actually very well supported in Godot, so this is a reasonable approach.
+
+I have fleshed out some more of the basic plot of the game in my head. The
+player is an ant who smells an exterminator coming and has ten minutes to
+collect supplies and flee the hive. The player can convince other ants to flee
+the hive as well. Getting enough ants to join makes it possible to take the
+queen as well. The player will get a score based on the number of ants that
+joined and the amount of supplies collected. Different scores will trigger
+different win screens. I'll figure out exactly what later on, but basically:
+  -alone plus no supplies = dead
+  -alone with supplies = selfish
+  -some ants but no queen = struggle
+  -with queen = happy ending
+
+The more I think about the game, the more I think it should have some humorous
+elements for players to find. I think the ants will have silly names and there
+will be one or two exterminator denier ants in the hive. The exterminator denier
+ants are going to be a little jab at climate/covid deniers which does run a risk
+of irritating some of my players. But if I'm reading the room right, it's a gag
+that should come off pretty well.
+
+I've jumped straight into some elements of implementation, but mostly just to
+make sure that my ideas are feasible. I want to get the IO, text parser, and
+room generator figured out within the next week. That way I'll still have time
+to pivot if it turns out anything is completely unfeasible. But, I want to spend
+some solid time planning before I really get into the specifics of
+implementation. I want to have the game completely sketched out before anything
+gets committed to code. That might be an unreasonable goal for a game jam, but
+I really believe that good prep cuts down on development time enough that I'll
+actually get the game done sooner by focus on good prep. We'll see.
