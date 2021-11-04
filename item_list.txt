@@ -1,0 +1,5 @@
+Item_Name     Plural_Name   Point_Value   Description
+
+Berry         Berries       10            A tasty little snack.
+Stick         Sticks        1             It's brown and sticky.
+Pebble        Pebbles       1             A small rock.
