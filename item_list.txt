@@ -1,5 +1,9 @@
-Item_Name     Plural_Name   Point_Value   Description
+Item_Name     Plural_Name   Point_Value Bulk  Description
 
-Berry         Berries       10            A tasty little snack.
-Stick         Sticks        1             It's brown and sticky.
-Pebble        Pebbles       1             A small rock.
+Berry         Berries       10          1     A tasty little snack.
+Stick         Sticks        1           3     It's brown and sticky.
+Pebble        Pebbles       1           5     A small rock.
+Leaf          Leaves        10          1     A good snack for the diet conscious ant.
+SPAM          SPAMs         15          2     Delicious meat.
+Doll          Dolls         1           1     It looks like a baby ant.
+Crown         Crowns        20          1     Whoever wears this shall rule. Not really, it belongs to the Queen.
