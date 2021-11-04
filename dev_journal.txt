@@ -102,3 +102,43 @@ implementation. I want to have the game completely sketched out before anything
 gets committed to code. That might be an unreasonable goal for a game jam, but
 I really believe that good prep cuts down on development time enough that I'll
 actually get the game done sooner by focus on good prep. We'll see.
+
+# Nov 4 #
+I'm continuing to watch my YouTube tutorial. Godot is actually pretty intuitive,
+but I need to read up on signals. I want to create all of my data types as
+classes and it's taking some re-thinking to understand how they're all going to
+be Nodes instead. I think I can have the basic functionalities of the text game
+built in another week.
+
+I am thinking a lot about the text parser. I would like to build the game to
+interpret any arbitrary sentence, but we all know that it will be much easier
+to limit the player to a set list of commands. I think that the compromise I'm
+going to use is a built in command list with each command having a list of
+synonyms. That should make the command system pretty flexible without being too
+much work to finish.
+
+I have started working on an item list and I'll start working on a list of ants
+too. But that sort of thing is going to have to be built up along with the actual
+game. Still though, its nice to see the mechanical side and the narrative side
+of the game growing simultaneously.
+
+After re-reading the theme announcement, I noticed that "bug out" was actually
+mentioned as one of the official interpretations of the Bug! theme. This might
+mean that my game isn't as unique as I'd been hoping that it would be. It's
+going to be really hard to stand out amongst the now 7000 entrants. The text
+game aspect should hopefully help me stand out (although I don't know if that
+will be in a good or bad way). But I think I'm going to need some more "X
+factor" kind of stuff. I might start asking around for a few nice songs to make
+a soundtrack with. Different rooms could trigger different tracks, so like a
+tunnel theme, and a kitchen theme, and a thrown room theme. Plus a menu song and
+a few end screen themes. So maybe 9 songs. It seems like a lot, but I still have
+3 and a half weeks to figure that out.
+
+Speaking of the end screen, I think that will be a great way to catch some
+attention and to encourage replaying, but I'll need to quickly make people aware
+of the fact that multiple endings exist. One thought I've had about that is
+adding the ending name to the high score screen. Also, a personalized description
+on the end screen should help make players aware that the ending has been
+tailored to their actions.
+
+This project is starting to look achievable. 
