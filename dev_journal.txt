@@ -141,4 +141,19 @@ adding the ending name to the high score screen. Also, a personalized descriptio
 on the end screen should help make players aware that the ending has been
 tailored to their actions.
 
-This project is starting to look achievable. 
+This project is starting to look achievable.
+
+# Nov 5 #
+I'm going to need to be carefully balancing work/school life with this project
+for the next little bit. I'm working on a couple of things for school and I need
+to be better about giving them priority. None the less, I'm going to keep giving
+this project attention. I'm hoping that if I get the mechanical, difficult
+portion hashed out soon, then I'll have an easier time focusing on the fun,
+creative bits of IJOA in small chunks. I really need to code in several-hour
+chunks for the time to be useful, but creative stuff I can jump into in 10is
+minute segments if that's what I need to do.
+
+Oh! I don't know if I've recorded it here yet, but the game has a working title.
+I'm Just One Ant. I'm hoping to dial into people's frustration and resonate with
+their desire to make positive changes with limited resources. I haven't named
+the protagonist ant though. Do I even need to?
