@@ -1,0 +1,9 @@
+0
+-1 -1 2 3 -1 -1
+-1 -1 -1 -1 -1 -1
+""
+nothing
+noone
+The entryway of your nest. The dirt walls and floor are familiar and comfortable. There is a tunnel extending to the West. To the South is the exit of the nest.
+You can type go to move in a direction.
+ 
