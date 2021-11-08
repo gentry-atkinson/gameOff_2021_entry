@@ -8,9 +8,14 @@
 
 config_version=4
 
-_global_script_classes=[  ]
+_global_script_classes=[ {
+"base": "Node",
+"class": "IJOA_Room",
+"language": "GDScript",
+"path": "res://RoomClass.gd"
+} ]
 _global_script_class_icons={
-
+"IJOA_Room": ""
 }
 
 [application]

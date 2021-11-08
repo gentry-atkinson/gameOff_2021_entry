@@ -1,16 +1,14 @@
 extends Node
 
+class_name IJOA_Room
 
-# Declare member variables here. Examples:
-# var a: int = 2
-# var b: String = "text"
+var exits = []
+var hidden_exit = null
+var hidden_condition = ""
+var items = []
+var ants = []
+var description = "default"
+var help = ""
+var showHelp = true
 
-
-# Called when the node enters the scene tree for the first time.
-func _ready() -> void:
-	pass # Replace with function body.
-
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-#func _process(delta: float) -> void:
-#	pass
+enum directions {NORTH, EAST, SOUTH, WEST, UP, DOWN}
