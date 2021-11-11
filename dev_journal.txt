@@ -157,3 +157,27 @@ Oh! I don't know if I've recorded it here yet, but the game has a working title.
 I'm Just One Ant. I'm hoping to dial into people's frustration and resonate with
 their desire to make positive changes with limited resources. I haven't named
 the protagonist ant though. Do I even need to?
+
+# Nov 9 #
+Didn't do much development-wise over the weekend. Some of that is that I have
+a journal article that needs attention but also... I just didn't. It's really
+hard not to burn out at this time in the semester.
+
+I'm starting to add class files to represent Rooms and Items and Ants and other
+little game-world nouns. This is the first big difference between Python and
+Godot that I've had to deal with. I want to just puch ahead with putting classes
+in a nice little file, import that file wherever it's needed, and use the class
+like a class. The tutorial I've been following builds these sorts of game-world
+nouns as nodes rather than classes. So each thing has a physical representation
+in the game, that is just off-camera and not visible to the player.
+
+I blanched a little at the idea of abstract representations actually existing in
+the 2D scene so I pressed ahead with trying to make every class a class instead
+of a node. And... I'm wondering if it would be smarter to stay with the
+tutorial. I thought of all this cool things I could do programmatically like
+revealing hidden exits if the user has certain items and I didn't think that
+that would work with a node. But maybe it would have. Maybe I'm being pointlessly
+obstinant by sticking with the style of development that I'm used to.
+
+I think that for now I'm going to stick with my stupid obstinant method, but
+here's the record. If everything goes wrong, this is where it started.
